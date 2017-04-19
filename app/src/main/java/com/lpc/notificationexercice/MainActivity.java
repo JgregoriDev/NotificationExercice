@@ -31,7 +31,7 @@ public class MainActivity extends AppCompatActivity {
 
         textView.setText("Hola mon!!!!");
         Log.d("Proba","Proba");
-        System.out.println("Hola desde Main");
+
     }
 
     @Override
