@@ -30,7 +30,7 @@ public class MainActivity extends AppCompatActivity {
         TextView textView=(TextView)findViewById(R.id.Hola);
 
         textView.setText("Hola mon!!!!");
-        Log.d("Proba","Proba");
+        Log.d("Proba","Proba desde Main Activity");
 
     }
 

@@ -38,7 +38,7 @@ public class ResultActivity extends AppCompatActivity {
         String cognom=bundle.getString("Cognom");
         String edat=bundle.getString("Edat");
         textView1.setText("Hello "+nom+" "+cognom+". Welcome to the Result Activity");
-        Log.d("Proba",messageInfo);
+        Log.d("Proba","Proba desde Result Activity");
         textView2.setText(messageInfo);
     }
 
